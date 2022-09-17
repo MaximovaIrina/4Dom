@@ -1,0 +1,6 @@
+opencv-python
+numpy
+skimage
+pdf2image
+tesseract
+matplotlib
