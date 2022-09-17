@@ -18,7 +18,7 @@ Use out [preproc.ipynb](preproc.ipynb) notebook for interactivly processing your
 We a sagested pipeline for floor scheme  segmentation.   
 Bellow you can see which step of prerpoceesing we a using for that.  
 
-[Floor scheme segmentation](data/seg.gif)
+[Floor scheme segmentation](data/ZRH_II-02_01_IST_20140924.gif)
 
 ### 3D reconstruction
 Using unity, we drew a floor plan of each other 
