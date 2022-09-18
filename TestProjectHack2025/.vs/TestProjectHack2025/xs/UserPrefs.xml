@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9F09EE79-7A46-ABF1-D2AF-1BA9834F80CF}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="68bedfa4-de05-4ac4-aa6b-c32c265fbe43" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yaroslavkarpunin/TestProjectHack2025/Assets/WallEngine.cs" relfile="Assets/WallEngine.cs" line="177" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WallEngine.cs">
+    <Files>
+      <File FileName="Assets/WallEngine.cs" Line="114" Column="123" />
+      <File FileName="Assets/CameraMovement.cs" Line="49" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestProjectHack2025" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="WallEngine.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
